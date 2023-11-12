@@ -49,5 +49,6 @@ In this symphony of security, the project culminates in a meticulously sculpted 
 ## Feedback
 Your insights and feedback on this project are invaluable. Please review the detailed project steps and outcomes in the provided [GitHub repository](https://github.com/JustinAntunes-Cardoso/Linux-Permissions) and share your thoughts.
 
-**Note**
-I've independently completed this project.
+---
+
+**Note:** I've independently completed this project.
