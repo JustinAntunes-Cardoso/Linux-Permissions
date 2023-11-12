@@ -14,7 +14,7 @@ The primary objectives of this project are:
 
 ## Supporting Material
 
-Explore the [Current File Permissions document](#) to delve into the intricate details of the existing file structure and permissions. This document serves as a compass, guiding the project through the labyrinth of file permissions.
+Explore the [Current File Permissions document](https://github.com/JustinAntunes-Cardoso/Linux-Permissions/blob/main/Current-file-permissions.docx) to delve into the intricate details of the existing file structure and permissions. This document serves as a compass, guiding the project through the labyrinth of file permissions.
 
 ## Project Steps
 
